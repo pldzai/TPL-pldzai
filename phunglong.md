@@ -1,4 +1,4 @@
-#!url=https://raw.githubusercontent.com/vuong2023/shad/main/modules/Locket_ohb.sgmodule
+#!url=https://raw.githubusercontent.com/PhungLong240407/shad/main/modules/Locket_ohb.sgmodule
 #!name=Locket-OLongO7_Gold
 #!desc=Crack By PhungLong
 
